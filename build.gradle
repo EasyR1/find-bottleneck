@@ -1,0 +1,7 @@
+task hello() {
+    print("Hello!")
+}
+
+tasks.withType(JavaCompile) {
+    options.fork = true
+}
