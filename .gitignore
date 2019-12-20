@@ -3,6 +3,13 @@
 .gradle/
 .github/
 
+# IntelliJ IDEA
+.idea/
+
+# Gradle
+.gradle/
+build/
+
 # Log file
 *.log
 
